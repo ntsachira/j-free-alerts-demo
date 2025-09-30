@@ -10,7 +10,7 @@
   <li><code>flatlaf-x.x.x.jar</code> added to the classpath (for styling)</li>
 </ul>
 <p>You can download the latest FlatLaf JAR from the official Maven repository:</p>
-<p><a href="https://github.com/JFormDesigner/FlatLaf/releases" target="_blank">🔗 FlatLaf Releases</a></p>
+<p><a href="https://mvnrepository.com/artifact/com.formdev/flatlaf/3.6.1" target="_blank">🔗 FlatLaf Releases</a></p>
 <p><strong style="color:#d6336c;">⚠️ Make sure to add <code>flatlaf-x.x.x.jar</code> to your project’s classpath alongside <code>jfreealerts.jar</code>.</strong></p>
 
 
@@ -38,6 +38,8 @@
 
 <h2>🎬 Demo Preview</h2>
 <p><img src="assets/demo.gif" alt="JFreeAlerts Demo" width="600"></p>
+<p>Watch the full demo integration video on from my youtube channel from <a href="https://youtu.be/-ysjI-ckTyE">here</a></p>
+[![Watch the demo on YouTube](assets/demo-banner.png)](https://www.youtube.com/watch?v=-ysjI-ckTyE)
 
 <h2>🔗 Related Project</h2>
 <p>See the main library repo: <a href="https://github.com/ntsachira/j-free-alerts">JFreeAlerts</a></p>
