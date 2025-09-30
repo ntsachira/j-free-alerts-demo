@@ -7,7 +7,12 @@
   <li>Java 8 or higher</li>
   <li>NetBeans or any Java IDE</li>
   <li><code>jfreealerts.jar</code> added to the classpath</li>
+  <li><code>flatlaf-x.x.x.jar</code> added to the classpath (for styling)</li>
 </ul>
+<p>You can download the latest FlatLaf JAR from the official Maven repository:</p>
+<p><a href="https://github.com/JFormDesigner/FlatLaf/releases" target="_blank">🔗 FlatLaf Releases</a></p>
+<p><strong style="color:#d6336c;">⚠️ Make sure to add <code>flatlaf-x.x.x.jar</code> to your project’s classpath alongside <code>jfreealerts.jar</code>.</strong></p>
+
 
 <h2>🧪 What This Demo Shows</h2>
 <ul>
@@ -35,7 +40,7 @@
 <p><img src="assets/demo.gif" alt="JFreeAlerts Demo" width="600"></p>
 
 <h2>🔗 Related Project</h2>
-<p>See the main library repo: <a href="https://github.com/yourusername/JFreeAlerts">JFreeAlerts</a></p>
+<p>See the main library repo: <a href="https://github.com/ntsachira/j-free-alerts">JFreeAlerts</a></p>
 
 <h2>📄 License</h2>
 <p>This demo is released under the MIT License.</p>
