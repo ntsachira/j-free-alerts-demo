@@ -38,8 +38,10 @@
 
 <h2>🎬 Demo Preview</h2>
 <p><img src="assets/demo.gif" alt="JFreeAlerts Demo" width="600"></p>
-<p>Watch the full demo integration video on from my youtube channel from <a href="https://youtu.be/-ysjI-ckTyE">here</a></p>
-[![Watch the demo on YouTube](assets/demo-banner.png)](https://www.youtube.com/watch?v=-ysjI-ckTyE)
+<h2>🎥 Watch the full demo integration video on my YouTube channel from <a href="https://youtu.be/-ysjI-ckTyE">here</a></h2>
+<a href="https://www.youtube.com/watch?v=-ysjI-ckTyE">
+  <p><img src="assets/demo-banner.png" alt="JFreeAlerts Demo" width="600"></p>
+</a>
 
 <h2>🔗 Related Project</h2>
 <p>See the main library repo: <a href="https://github.com/ntsachira/j-free-alerts">JFreeAlerts</a></p>
